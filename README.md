@@ -1,4 +1,4 @@
-# ChatGPT_chatbot
+# ChatGPT-Based Voice-Enabled Chatbot
 - This project is for learning purpose.
 - Using ChatGPT API, I made this project  
 
